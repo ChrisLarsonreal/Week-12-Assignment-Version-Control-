@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore node_modules and Python cache for student code
+node_modules/
+__pycache__/
+*.pyc
+
+# Ignore screenshots folder (add screenshots on submission!)
+screenshots/
+
+# Ignore answers/ if needed; students will commit this directory
+# answers/*.md
